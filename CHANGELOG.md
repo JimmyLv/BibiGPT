@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.1](https://github.com/JimmyLv/BibiGPT/compare/v1.5.0...v1.5.1) (2023-03-13)
+
+
+### Bug Fixes
+
+* disabled the default form redirect ([e8c3068](https://github.com/JimmyLv/BibiGPT/commit/e8c306839955c0c51e0a724af72726fb7427cc41))
+* not change md text color if dark mode ([e22b1fd](https://github.com/JimmyLv/BibiGPT/commit/e22b1fd63541ea5251bfa4e9c0c36469d81f29a9))
+* show better internal server error ([62bc2aa](https://github.com/JimmyLv/BibiGPT/commit/62bc2aa4fd524cc4e8c34845adcad2621ca72f53))
+* upgrade the ios shortcut ([5d9b5b2](https://github.com/JimmyLv/BibiGPT/commit/5d9b5b2033324b8ea05def5bf3e9411e9c97ba73))
+* valueAsNumber for level options ([dda1ef6](https://github.com/JimmyLv/BibiGPT/commit/dda1ef63b0ca1c3e9bbdf81df9d9f77165942416))
+
 ## [1.5.0](https://github.com/JimmyLv/BibiGPT/compare/v1.4.0...v1.5.0) (2023-03-13)
 
 
